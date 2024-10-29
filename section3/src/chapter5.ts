@@ -12,7 +12,7 @@ let c = {
     profile : {
         nickname : "ssowem",
     },
-    urls: {"https://about.ssoblity.me"}
+    // urls: {"https://about.ssobility.me/"}
 };
 
 let {id, name, profile} = c;
